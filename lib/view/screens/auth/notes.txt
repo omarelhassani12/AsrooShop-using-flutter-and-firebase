@@ -1,0 +1,2 @@
+//final controller = Get.put(AuthController()); //this is use when we open the app
+  //final controllers = Get.lazyPut(() => AuthController());//this use when we called it

@@ -1,0 +1,29 @@
+Run app: Shift + F10
+
+Build app: Ctrl + F9
+
+Rebuild app: Shift + Ctrl + F9
+
+Open file: Ctrl + Shift + N
+
+Rename symbol: Shift + F6
+
+Comment/uncomment a line or block of code: Ctrl + /
+
+Duplicate a line or selection: Ctrl + D
+
+Move code block up or down: Shift + Alt + Up/Down
+
+Find a file in the project: Double Shift
+
+Go to declaration: Ctrl + B
+
+Code completion: Ctrl + Space
+
+Generate code: Alt + Insert
+
+Search everywhere: Double Shift
+
+Extract a method: Ctrl + Alt + M
+
+Show parameter info: Ctrl + P
